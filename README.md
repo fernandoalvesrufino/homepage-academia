@@ -34,7 +34,7 @@ Projeto desenvolvido na Trilha Explorer da Rocketseat. Uma homepage de uma acade
 
 - [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/homepage-academia/)
 
-
+ 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
