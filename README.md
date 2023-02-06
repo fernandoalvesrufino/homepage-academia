@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto desenvolvido na Trilha Explorer da Rocketseat. Uma homepage de uma academia que cria treinos online exclusivos e personalizados.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/homepage-academia/)
 
 
 ## :memo: Licença
